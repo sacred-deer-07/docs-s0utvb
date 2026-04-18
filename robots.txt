@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://notes-nan0gy.evergrowadvisor.com/sitemap.xml
